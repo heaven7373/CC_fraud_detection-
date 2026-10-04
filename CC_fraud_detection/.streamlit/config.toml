@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#2256A3"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172B24"
+font = "sans serif"
+chartCategoricalColors = ["#2256A3", "#C43D4B", "#D99B2B", "#486581", "#6C5AA7"]
+chartSequentialColors = ["#F5F8FC", "#E5ECF7", "#CFDCEE", "#B7C9E6", "#9BB4D7", "#7E9FCF", "#6689C0", "#4D75B2", "#3563A6", "#2256A3"]
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+maxUploadSize = 300
